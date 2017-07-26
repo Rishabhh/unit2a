@@ -4,7 +4,7 @@ threadsafe: true
 
 handlers:
 - url: /.*
-  script: temptest.app
+  script: templates2a.app
 
 libraries:
 - name: jinja2
